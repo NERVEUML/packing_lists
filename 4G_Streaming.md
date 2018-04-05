@@ -5,6 +5,7 @@
 - [ ] Encoders
 - [ ] Econder antennas ( pack seperately )
 - [ ] Encoder mounting hardware
+- [ ] Encoder sim tools
 - [ ] batteries for encoders ( they use the field monitor batteries) 
 - [ ] 2 MIFIs
 - [ ] camera wall plug/ chanrging cables
