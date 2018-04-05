@@ -1,6 +1,7 @@
 ###  For streaming with the HEVC/H.264 Encoder
    
 - [ ] cameras needed
+- [ ] camera mic and handle
 - [ ] Spare battiers for each camera ( must go in carry on )
 - [ ] Encoders
 - [ ] Econder antennas ( pack seperately )
@@ -18,3 +19,5 @@
 ##### For Debugging 
 - [ ] Deimos/ Phobos  
 - [ ] ethernet cables 
+- [ ] tablet 
+- [ ] spare usb batteries ( ravpower banks) 
