@@ -13,6 +13,7 @@
 - [ ] HDMI splitters
 - [ ] HDMI cables 
 - [ ] Power strips for chaging and general wall power ( min. 3)
+- [ ] Asgard computer + four monitors to view streams
 
 ##### For Debugging 
 - [ ] Deimos/ Phobos  
